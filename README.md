@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Danish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-danish-89b929265/)]([https://www.linkedin.com/in/md-danish-89b929265/])
+[![Linkedin Badge](https://img.shields.io/badge/-Danish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-danish-89b929265/)](https://www.linkedin.com/in/md-danish-89b929265/)
 [![Website Badge](https://img.shields.io/badge/WebSite-DanishDeveloper1-green)]( https://danishdeveloper1.github.io/DanishProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Danish-yellow)](https://stackoverflow.com/users/21159195/md-danish)
 
