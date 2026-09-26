@@ -11,34 +11,28 @@ The crossover between design and programming has always been of interest to me, 
 
 
 <p align="left">
-    <a href="https://cprogramming.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="c" width="40" height="40" />
-    </a>
+    <!-- C++ -->
     <a href="https://w3schools.com" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40" />
     </a>
-    <a href="https://w3schools.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://w3.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="html5" width="40" height="40" />
-    </a>
+    <!-- JavaScript -->
     <a href="https://mozilla.org" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40" />
-    </a>
+    <!-- React -->
     <a href="https://reactjs.org" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="react" width="40" height="40" />
     </a>
-    <a href="https://angular.dev" target="_blank" rel="noreferrer">
-        <img src="https://vectorlogo.zone" alt="angular" width="40" height="40" />
+    <!-- Node.js -->
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40" />
+    </a>
+    <!-- SQL -->
+    <a href="https://w3schools.com" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="sql" width="40" height="40" />
     </a>
 </p>
+
 
 
     
