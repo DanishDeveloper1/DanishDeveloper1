@@ -8,8 +8,8 @@ I'm a Full Stack Solution Architect. The crossover between design and programmin
 
 ### 🛠️ Tech Stack & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,nodejs,mysql,git,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,nodejs,mysql)](https://skillicons.dev)
 
 <br />
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
