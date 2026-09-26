@@ -10,35 +10,36 @@ The crossover between design and programming has always been of interest to me, 
 
 
 
-   <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<p align="left">
+    <a href="https://cprogramming.com" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="c" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <a href="https://w3schools.com" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <a href="https://w3schools.com" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="css3" width="40" height="40" />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://w3.org" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="html5" width="40" height="40" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <a href="https://mozilla.org" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://mongodb.com" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="mongodb" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40" />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
         <img src="https://githubusercontent.com" alt="react" width="40" height="40" />
     </a>
     <a href="https://angular.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
+        <img src="https://vectorlogo.zone" alt="angular" width="40" height="40" />
     </a>
 </p>
+
 
     
  ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
