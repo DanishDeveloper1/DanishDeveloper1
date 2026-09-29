@@ -1,15 +1,14 @@
-### Hi Developers 👋
+### Hi, I'm Md Danish 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourusername.github.io)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishdeveloper)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DanishDeveloper1/)
 
-I'm a Full Stack Solution Architect. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (ReactJs, Javascript), and database architectures (SQL).
+I'm a full-stack developer from New Delhi, building web applications with the MERN stack (MongoDB, Express, React, Node.js). I enjoy turning ideas into working products, and I practice problem solving in C++ on LeetCode.
 
-### 🛠️ Tech Stack & Skills
+I'm currently building a food delivery app and a reward app, and I'm getting ready to contribute to open source.
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,nodejs,mysql)](https://skillicons.dev)
+### 🛠️ Tech Stack
 
-<br />
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,git,github)](https://skillicons.dev)
 
 
